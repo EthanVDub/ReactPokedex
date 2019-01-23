@@ -1,4 +1,4 @@
-React Pokedex by Ethan Vander Wiel
+<h2>React Pokedex by Ethan Vander Wiel</h2>
 
 This project was created as a practice of React fundamentals, as well as how to access and use APIs within an application. The project uses the PokeAPI for the data (https://pokeapi.co/). 
 
