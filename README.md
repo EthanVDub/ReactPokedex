@@ -1,4 +1,4 @@
-<h2>React Pokedex by Ethan Vander Wiel</h2>
+<h1>React Pokedex by Ethan Vander Wiel</h1>
 
 This project was created as a practice of React fundamentals, as well as how to access and use APIs within an application. The project uses the PokeAPI for the data (https://pokeapi.co/). 
 
@@ -10,7 +10,7 @@ The main part of this project is to have the site create the cards as it gathers
 will be generated for any number of Pokemon (or any data) gathered from the API. This really highlights the power of ReactJS as I only have to create one component for every card, then map the data gathered from the API to a new card. 
 
 
-REACT COMPONENTS:
+<h2>React Components</h2>
 There are three React components within the project. 
 The first is App. This is a simple component that runs over the whole page. 
 It is called from index.js when the page is loaded. This creates and contains the Pokedex component, 
