@@ -2,7 +2,7 @@
 Google Cloud Server: http://ambient-antenna-229504.appspot.com/ - If you are clicking this, you will need to allow it to run
 "not secure" scripts. I am unsure how to fix this. 
 
-This project was created as a practice of React fundamentals, as well as how to access and use APIs within an application. The project uses the PokeAPI for the data (https://pokeapi.co/). 
+This project was created as a practice of React fundamentals, as well as how to access and use APIs within an application. The project uses a RESTful API to gather the data: PokeAPI - (https://pokeapi.co/). 
 
 I wanted to make a program that uses the idea of "Cards" within React. In this project, each Pokemon has a card to it's own. Within each
 card there is information including the Name, Typing, a Picture of what they look like, and their ability. However, using the PokeAPI,
