@@ -1,6 +1,5 @@
 <h1>React Pokedex by Ethan Vander Wiel</h1>
-Google Cloud Server: http://ambient-antenna-229504.appspot.com/ - If you are clicking this, you will need to allow it to run
-"not secure" scripts. I am unsure how to fix this. 
+I have recently deleted this project from Google Cloud Platform 
 
 This project is currently only tested on chrome.
 
